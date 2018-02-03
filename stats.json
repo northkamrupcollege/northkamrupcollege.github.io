@@ -1,0 +1,106 @@
+{
+  "assetsByChunkName": {
+    "path---facilities": [
+      "path---facilities-a0e39f21c11f6a62c5ab.js",
+      "path---facilities-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-index-js": [
+      "component---src-pages-index-js-7f25ab60eb19f6af1061.js",
+      "component---src-pages-index-js-7f25ab60eb19f6af1061.js.map"
+    ],
+    "path---management": [
+      "path---management-a0e39f21c11f6a62c5ab.js",
+      "path---management-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-management-js": [
+      "component---src-pages-management-js-6275be9af8a28bfe80d1.js",
+      "component---src-pages-management-js-6275be9af8a28bfe80d1.js.map"
+    ],
+    "path---": [
+      "path----557518bd178906f8d58a.js",
+      "path----557518bd178906f8d58a.js.map"
+    ],
+    "path---the-college": [
+      "path---the-college-a0e39f21c11f6a62c5ab.js",
+      "path---the-college-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-contact-js": [
+      "component---src-pages-contact-js-cfd336481ff964d15324.js",
+      "component---src-pages-contact-js-cfd336481ff964d15324.js.map"
+    ],
+    "component---src-pages-the-college-js": [
+      "component---src-pages-the-college-js-51967e05dc9cc33bef74.js",
+      "component---src-pages-the-college-js-51967e05dc9cc33bef74.js.map"
+    ],
+    "component---src-pages-facilities-js": [
+      "component---src-pages-facilities-js-cc3f3a055ba90afe22bc.js",
+      "component---src-pages-facilities-js-cc3f3a055ba90afe22bc.js.map"
+    ],
+    "component---node-modules-gatsby-plugin-offline-app-shell-js": [
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js",
+      "component---node-modules-gatsby-plugin-offline-app-shell-js-5c4c5a0f7af9dc69d6d7.js.map"
+    ],
+    "component---src-layouts-index-js": [
+      "component---src-layouts-index-js-aef9cf2ecccd3dd48f8a.js",
+      "component---src-layouts-index-js-aef9cf2ecccd3dd48f8a.js.map"
+    ],
+    "component---src-pages-departments-js": [
+      "component---src-pages-departments-js-164278b5fd0574c3d7ed.js",
+      "component---src-pages-departments-js-164278b5fd0574c3d7ed.js.map"
+    ],
+    "path---index": [
+      "path---index-a0e39f21c11f6a62c5ab.js",
+      "path---index-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-404-js": [
+      "component---src-pages-404-js-8511eeeb24aef90220a0.js",
+      "component---src-pages-404-js-8511eeeb24aef90220a0.js.map"
+    ],
+    "commons": [
+      "commons-961887d3f3b2d16d5e81.js",
+      "commons-961887d3f3b2d16d5e81.js.map"
+    ],
+    "path---404-html": [
+      "path---404-html-a0e39f21c11f6a62c5ab.js",
+      "path---404-html-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---contact": [
+      "path---contact-a0e39f21c11f6a62c5ab.js",
+      "path---contact-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---academics": [
+      "path---academics-a0e39f21c11f6a62c5ab.js",
+      "path---academics-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-academics-index-js": [
+      "component---src-pages-academics-index-js-2e72511d51853036206f.js",
+      "component---src-pages-academics-index-js-2e72511d51853036206f.js.map"
+    ],
+    "path---offline-plugin-app-shell-fallback": [
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js",
+      "path---offline-plugin-app-shell-fallback-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "app": [
+      "app-3d8945cdc3c6e649e430.js",
+      "build-js-styles.css",
+      "app-3d8945cdc3c6e649e430.js.map",
+      "build-js-styles.css.map"
+    ],
+    "path---academics-courses-offered": [
+      "path---academics-courses-offered-a0e39f21c11f6a62c5ab.js",
+      "path---academics-courses-offered-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---404": [
+      "path---404-a0e39f21c11f6a62c5ab.js",
+      "path---404-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "path---departments": [
+      "path---departments-a0e39f21c11f6a62c5ab.js",
+      "path---departments-a0e39f21c11f6a62c5ab.js.map"
+    ],
+    "component---src-pages-academics-courses-offered-js": [
+      "component---src-pages-academics-courses-offered-js-f886695051d565afc65c.js",
+      "component---src-pages-academics-courses-offered-js-f886695051d565afc65c.js.map"
+    ]
+  }
+}
